@@ -5,7 +5,7 @@ For creating anaconda environment and downloading the dataset, please run
 > \$ cd train  
 > \$ ./download-dataset.sh  
 > \$ conda env create -f environment.yml  
-> > \$ python extr_feat_2020.py
+> \$ python extr_feat_2020.py
 
 ## How to use
 
