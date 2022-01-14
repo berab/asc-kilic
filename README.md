@@ -2,11 +2,9 @@
 
 ### First to do
 For creating anaconda environment and downloading the dataset, please run
-> \$ cd train
-> \$ ./download-dataset.sh
-> \$ conda env create -f environment.yml
 > \$ cd train  
-> \$ ./train.sh 
+> \$ ./download-dataset.sh  
+> \$ conda env create -f environment.yml  
 
 ## How to use
 
