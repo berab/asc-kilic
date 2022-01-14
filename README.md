@@ -1,7 +1,7 @@
 # DCASE2020 task 1b -- Low-Complexity Acoustic Scene Classification
 
 ### First to do
-For creating anaconda environment and downloading the dataset, please run
+For creating anaconda environment and downloading the dataset/extracting the features(mel spectograms), please run
 > \$ cd train  
 > \$ ./download-dataset.sh  
 > \$ conda env create -f environment.yml  
