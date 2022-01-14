@@ -3,7 +3,7 @@
 ##First to do
 > \$ cd train
 > \$ ./download-dataset.sh
-
+> \$ conda env create -f environment.yml
 ## How to use
 
 ### Model training
